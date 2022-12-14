@@ -4,7 +4,8 @@
 
 [![instagram](https://img.shields.io/badge/instagram-E4405F?.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/abdelhy_alaa/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=be006c&size=24&width=500&lines=I'm+front+end+web+designer;and+Back+end+developer;and+Cyber+Security+Engineer!;Nice+to+meet+you...+❤❤)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00EE00&size=24&width=500&lines=I'm+front+end+web+designer;and+Back+end+developer;and+Cyber+Security+Engineer!;Nice+to+meet+you...+❤❤)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=be006c&size=24&width=500&lines=Nice+to+meet+you...+❤❤)](https://git.io/typing-svg)
 
 
 I'm a front-end web designer with 2 years experience, I've enjoyed every line of code and would like to code some millions more.
